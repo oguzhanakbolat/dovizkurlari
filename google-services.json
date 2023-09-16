@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083756630503",
+    "project_id": "dovizkurlari-3d983",
+    "storage_bucket": "dovizkurlari-3d983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083756630503:android:06c5ab24bfc0fbb92a2d42",
+        "android_client_info": {
+          "package_name": "com.oguzhan.dovizkurlari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwAXSG01EEXIN78Llty9p-jOiQiizK93s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "blockade",
-    "slug": "blockade",
+    "name": "Döviz Kurları",
+    "slug": "dovizkurlari",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,16 +15,30 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.oguzhan.dovizkurlari"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.oguzhan.dovizkurlari"
     },
+    "googleServicesFile": "./google-services.json",
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2e5d3681-ae0f-483a-8d2e-93646c2dade8"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2e5d3681-ae0f-483a-8d2e-93646c2dade8"
     }
   }
 }
